@@ -7,20 +7,20 @@ We are using a "semi-cleaned" version of the titanic data set, if we use the dat
 
 Tools Used in this Project are:
 
-**Linear Regression with Scikit Learn - Machine Learning with Python  
-1.Python Pandas    
+**Linear Regression with Scikit Learn - Machine Learning with Python**  
+**1.Python Pandas    
 2.Python Numpy  
 3.Python Matplotlib  
-4.Python Seaborn  **
+4.Python Seaborn**
   
   
 The following topics are covered in this project:
 
 `1.A typical problem statement for machine learning  `  
 `2.Downloading and exploring a dataset for machine learning  `
-`3.Cleaning, Transforming and Preparing the data for Machine Learning`  
-`4.Logistic regression with one variable using Scikit-learn ` 
-`5.Logistic regression with multiple variables`  
+`3.Cleaning, Transforming and Preparing the data for Machine Learning  `  
+`4.Logistic regression with one variable using Scikit-learn   ` 
+`5.Logistic regression with multiple variables  `  
 `6.Using categorical features for machine learning  `
 `7.Regression coefficients and feature importance ` 
 `8.Creating a training and test set for reporting results  `
